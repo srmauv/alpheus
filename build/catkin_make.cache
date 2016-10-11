@@ -1,0 +1,2 @@
+control_panel
+-DCATKIN_DEVEL_PREFIX=/home/parth/alpheus/devel -DCMAKE_INSTALL_PREFIX=/home/parth/alpheus/install -G Unix Makefiles

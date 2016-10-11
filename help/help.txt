@@ -1,0 +1,15 @@
+this repository has been created on my computer (i.e vadersys/parth etc)
+you will have to make necessary changes to various files in this repository in order to compile it.
+yeah its cumbersome.
+also, please install ros indigo only with qt4
+no need for nasty dependency issues
+all commits should go to your own branch with the syntax as follows :
+
+"<name>-branch"
+
+refrain from merging it with the master branch without my approval
+
+new help will be added as soon as its needed.
+
+-----------
+<vadersys>

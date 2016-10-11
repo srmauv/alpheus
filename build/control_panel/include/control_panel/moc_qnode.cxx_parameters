@@ -1,0 +1,16 @@
+-I/opt/ros/indigo/include
+-I/usr/include
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/parth/alpheus/build/control_panel
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="control_panel"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DQT_NO_KEYWORDS
+-o
+/home/parth/alpheus/build/control_panel/include/control_panel/moc_qnode.cxx
+/home/parth/alpheus/src/control_panel/include/control_panel/qnode.hpp

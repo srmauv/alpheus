@@ -1,0 +1,8 @@
+prefix=/home/parth/alpheus/devel
+
+Name: control_panel
+Description: Description of control_panel
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/parth/alpheus/devel/lib 
+Requires: 
